@@ -22,7 +22,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a knack for m
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=takuonline&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - LinkedIn: [Takudzwa Makusha](https://www.linkedin.com/in/takudzwa-makusha/)

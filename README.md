@@ -4,7 +4,7 @@
 I'm a passionate Data Scientist and Machine Learning Engineer with a knack for mobile development. I love turning data into actionable insights and building intelligent systems that solve real-world problems.
 
 ## 🔭 I'm currently working on
-- Advanced AI pricing models at ShopriteX
+- Advanced AI models
 - Personal projects involving NLP and generative AI
 
 ## 🌱 I'm currently learning

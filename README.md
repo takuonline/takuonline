@@ -31,8 +31,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a knack for m
 ## 💬 Ask me about
 - Data Science
 - Machine Learning
-- Mobile Development
-- Financial Technology
+- Web Development
 
 ## ⚡ Fun fact
 I have a background in Financial Accounting, which gives me a unique perspective on data-driven business solutions!

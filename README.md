@@ -34,7 +34,7 @@ I can architect and deploy full systems end to end, eliminating a lot of coordin
 ## Projects
 
 ### **Savvy Shopper**
-[Mobile](https://github.com/takuonline/savvy_shopper_mobileapp) · [Backend](https://github.com/takuonline/savvy_shopper_backend) · [Extension](https://github.com/takuonline/savvy_shopper_extension)
+[Mobile](https://github.com/takuonline/savvy_shopper_mobile_app) · [Backend](https://github.com/takuonline/savvy_shopper_backend) · [Extension](https://github.com/takuonline/savvy_shopper_extension)
 
 `Python` `Flask` `Flutter` `Scrapy` `MongoDB` `DynamoDB` `AWS Lambda`
 
@@ -45,7 +45,6 @@ Scraped 12 stores daily across 3 categories (groceries, clothing, electronics). 
 Architecture: Scrapy crawlers on Heroku with AWS Lambda scheduling. Flask REST API with MongoDB/DynamoDB. Flutter app for iOS/Android. JavaScript extension for desktop users.
 
 This project landed me my first data scientist role at Shoprite.
-
 
 
 ---

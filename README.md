@@ -12,25 +12,57 @@ Cape Town | [takuonline.com](https://www.takuonline.com) | [LinkedIn](https://ww
 
 Run an ML consultancy serving enterprise clients—companies with $80M+ revenue and $2B+ valuations. Compete with established agencies by shipping complete platforms: ML models, data pipelines, and the applications around them.
 
-I can architect and deploy full systems alone. This eliminates coordination overhead and accelerates delivery.
+I can architect and deploy full systems end to end, eliminating a lot of coordination overhead and accelerates delivery.
 
-**Specialties:**  
-ML systems from research to production · Computer vision · NLP · Real-time data processing · Cloud infrastructure
+**Specialties:**
+- ML systems from research to production
+- Full stack AI integration
+- Big data processing
+- Cloud infrastructure (AWS)
 
-**Stack:**  
-Python · TypeScript · JavaScript · SQL  
-TensorFlow · PyTorch · scikit-learn · LangChain  
-FastAPI · Django · Next.js · React · Flutter  
-AWS · Docker · Kubernetes · PySpark
+
+**Preferred Stack:**
+
+**Programming languages**: Python · TypeScript · JavaScript · SQL <br>
+**AI/ML**: TensorFlow · PyTorch · scikit-learn · LangChain  <br>
+**Backend**: FastAPI · Django · Next.js  <br>
+**Frontend**: Next.js/React · Flutter  <br>
+**Misc**: AWS · Docker · Kubernetes · PySpark <br>
 
 ---
 
 ## Projects
 
-### **Savvy Data Studio**
+### **Savvy Shopper**
+[Mobile](https://github.com/takuonline/savvy_shopper_mobileapp) · [Backend](https://github.com/takuonline/savvy_shopper_backend) · [Extension](https://github.com/takuonline/savvy_shopper_extension)
+
+Multi-platform price comparison system. Built as sole developer over several months—web scrapers, backend API, mobile app, and Chrome extension.
+
+Scraped 12 stores daily across 3 categories (groceries, clothing, electronics). Algorithm analyzed historical prices to identify good/bad buys. Shopping list feature compared prices across stores.
+
+Architecture: Scrapy crawlers on Heroku with AWS Lambda scheduling. Flask REST API with MongoDB/DynamoDB. Flutter app for iOS/Android. JavaScript extension for desktop users.
+
+This project landed me my first data scientist role at Shoprite.
+
+`Python` `Flask` `Flutter` `Scrapy` `MongoDB` `DynamoDB` `AWS Lambda`
+
+---
+
+### **Data Studio: Reimagining the LLM Interface**
 [Repo](https://github.com/takuonline/savvy-data-studio)
 
-LLM interface for analytics. Built to make data analysis more accessible for business users.
+Inspired by OpenAI's ChatGPT interface, I set out to create a more sophisticated user interface tailored for complex workflows involving large language models (LLMs). Data Studio is the result—a powerful, intuitive platform designed to support intricate prompting and advanced reasoning processes.
+
+
+#### key features
+**Graph-like Structure**
+Incorporates graph-like structures to facilitate complex reasoning paths, influenced by cutting-edge research like the 'Tree of Thought' paper.
+
+**Customizable Workflow**
+Tailored to support diverse prompting strategies and multi-step analyses.
+
+**Intuitive Design**
+While more advanced than ChatGPT, the interface maintains a clean, user-friendly design.
 
 `JavaScript` `LLM` `React`
 
@@ -45,12 +77,14 @@ Computer vision system with image recognition and product search. Trained custom
 
 ---
 
-### **Black Friday Analytics Dashboard**
-[Repo](https://github.com/takuonline/savvy_shoprite_food_web_dashboard)
+### **Analytics Dashboards**
 
-Real-time dashboard processing millions of retail transactions during high-traffic sales periods.
+Real-time data visualization platforms.
 
-`Python` `Plotly` `FastAPI`
+- [Black Friday Dashboard](https://github.com/takuonline/savvy_shoprite_food_web_dashboard) — Processing millions of retail transactions during high-traffic periods
+- [React Dashboard](https://github.com/takuonline/react_dashboard) — Interactive analytics interface
+
+`Python` `Plotly` `React` `FastAPI`
 
 ---
 
@@ -67,10 +101,9 @@ Distributed crawlers for e-commerce data collection. Built to handle rate limits
 
 ### **Mobile Apps**
 
-Cross-platform shopping applications with recommendations and real-time inventory.
+Cross-platform applications with real-time features.
 
-- [Savvy Shopper](https://github.com/takuonline/savvy_shopper_mobileapp) — Original build
-- [E-Commerce V2](https://github.com/takuonline/e_commerce_mobileapp_v2) — Rebuilt with improved architecture
+- [E-Commerce V2](https://github.com/takuonline/e_commerce_mobileapp_v2) — Shopping app with improved architecture
 - [Reflectly Clone](https://github.com/takuonline/reflectly-clone) — Journaling app with mood tracking
 
 `Flutter` `Django` `Firebase`
@@ -89,22 +122,22 @@ Three iterations of portfolio development.
 
 ## Experience
 
-**Takuonline (Pty) Ltd** — Founder & Principal ML Engineer  
+**Takuonline (Pty) Ltd** — Founder & Principal ML Engineer
 *May 2025 - Present*
 
 Building ML consultancy. Clients include major corporations ($80M+ revenue, $2B+ valuations). Delivered complete AI/data platforms for building supplies company and automation leader Nintex.
 
-**ShopriteX** — Senior ML Engineer, Pricing & Promotions  
+**ShopriteX** — Senior ML Engineer, Pricing & Promotions
 *June 2021 - May 2025*
 
 Built pricing optimization system processing 10M+ daily transactions across 4,000+ stores. Developed promotion effectiveness models and internal analytics tools (Next.js, Django) used by 50+ person team. Collaborated with BCG consultants. Results: 5%+ margin improvement.
 
-**Brave-orbit** — Mobile Developer  
+**Brave-orbit** — Mobile Developer
 *June 2020 - June 2021*
 
 Shipped 5 mobile applications in one year on a 2-person team. Built cross-platform apps for iOS and Android.
 
-**Alphalytica** — Data Scientist, Location Intelligence  
+**Alphalytica** — Data Scientist, Location Intelligence
 *January 2020 - June 2020*
 
 Developed ML algorithms for optimal store location analysis using GIS data, satellite imagery, and demographics.

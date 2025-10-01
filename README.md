@@ -75,8 +75,9 @@ Computer vision system with image recognition and product search. Trained custom
 `Python` `Plotly` `React` `FastAPI`
 Real-time data visualization platforms.
 
-- [Black Friday Dashboard](https://github.com/takuonline/savvy_shoprite_food_web_dashboard) — Processing millions of retail transactions during high-traffic periods
+- [Black Friday Dashboard](https://github.com/takuonline/savvy_shoprite_food_web_dashboard) — Price analysis dashboard
 - [React Dashboard](https://github.com/takuonline/react_dashboard) — Interactive analytics interface
+- [Clothing dashboard](https://github.com/takuonline/savvy_clothing_dashboard) — Price analysis dashboard
 
 
 
@@ -102,7 +103,6 @@ Cross-platform applications with real-time features.
 
 - [E-Commerce V2](https://github.com/takuonline/e_commerce_mobileapp_v2) — Shopping app with improved architecture
 - [Reflectly Clone](https://github.com/takuonline/reflectly-clone) — Journaling app with mood tracking
-
 
 
 ---
